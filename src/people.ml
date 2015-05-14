@@ -18,6 +18,12 @@
 
 open Cow
 
+let magnust = {
+    Atom.name = "Magnus Therning";
+    uri = Some "http://therning.org/magnus/";
+    email = Some "magnus@therning.org";
+}
+
 let anil = {
   Atom.name = "Anil Madhavapeddy";
   uri       = Some "http://anil.recoil.org";
