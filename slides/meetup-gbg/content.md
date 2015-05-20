@@ -1,6 +1,6 @@
 <!-- .slide: class="title" -->
 
-# O'Caml Where Art Though?
+# O'Caml Where Art Thou?
 
 <medium>Magnus Therning</medium>
 
@@ -118,3 +118,12 @@ Swap system libraries to target different platforms:<br/>
 ----
 
 ## The end
+
+- Xen <http://www.xen.org/>
+- MirageOS <http://openmirage.org/>
+
+<p> </p>
+
+- irmin <https://github.com/mirage/irmin>
+- CueKeeper <https://github.com/talex5/cuekeeper>
+- Jitsu <https://github.com/mirage/jitsu>

@@ -29,7 +29,7 @@ let decks =
         given = Date.t (2015, 05, 20);
         speakers = [People.magnust];
         venue = "Got.λ - Göteborg Functional Programming Group";
-        title = "OCaml, where art though?";
+        title = "OCaml, where art thou?";
         style = Reveal262;
       };
   ]
